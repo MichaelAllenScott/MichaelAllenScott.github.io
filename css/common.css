@@ -197,6 +197,11 @@ body {
     text-align: center;
 }
 
+.coforma-logo {
+    max-width: 80%;
+    max-height: 80%;
+}
+
 .coupa-logo {
     max-width: 80%;
     max-height: 80%;
